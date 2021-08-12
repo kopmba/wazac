@@ -1,0 +1,2 @@
+# wazac
+Java Fx project
